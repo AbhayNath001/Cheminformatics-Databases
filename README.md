@@ -31,7 +31,7 @@ Failure to provide proper citation violates the license terms.
 
 ### 👤 Research Profile
 
-**Name:** Abhay Nath
+**Name:** Abhay Nath |
 **Affiliation:** AI-ML Research Scientist
 
 **📧 Email:** [dr.abhaynath001@gmail.com](mailto:dr.abhaynath001@gmail.com)
