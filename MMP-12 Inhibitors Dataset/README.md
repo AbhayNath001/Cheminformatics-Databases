@@ -95,7 +95,7 @@ This dataset is provided “as is” without warranty of any kind. The authors a
 
 ### 👤 Research Profile
 
-**Name:** Abhay Nath
+**Name:** Abhay Nath |
 **Affiliation:** AI-ML Research Scientist
 
 **📧 Email:** [dr.abhaynath001@gmail.com](mailto:dr.abhaynath001@gmail.com)
